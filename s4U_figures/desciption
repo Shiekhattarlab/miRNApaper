@@ -1,7 +1,11 @@
 # description upcoming
 
-# 126_final_miRNA_analyzed_inputReadsNorm.txt
-list of final 126 miRNA detected in all three samples (shControl, shINTS6, shINTS11) used to subsample results files
+# timecourse_plot_labeledFraction.ipynb
+Jupyterlab notebook for plotting T>C labeled miRNAs. Figure 3i
+Needs additional files also deposited here:
+  - 126_final_miRNA_analyzed_inputReadsNorm.txt
+    list of final 126 miRNA detected in all three samples (shControl, shINTS6, shINTS11) used to subsample results files
+  - 32_miRNA_couples_toAnalyze.txt
+    32 miRNA couples corresponding to 32 guide miRNAs (called "mature") and 32 corresponding passenger miRNAs (calles "star"). Expressed in the dataset of 126 miRNAs.
 
-# 32_miRNA_couples_toAnalyze.txt
-32 miRNA couples corresponding to 32 guide miRNAs (called "mature") and 32 corresponding passenger miRNAs (calles "star"). Expressed in the dataset of 126 miRNAs.
+#
