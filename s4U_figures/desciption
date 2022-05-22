@@ -2,7 +2,11 @@
 
 # timecourse_plot_labeledFraction.ipynb
 Jupyterlab notebook for plotting T>C labeled miRNAs. Figure 3i
-Needs additional files also deposited here:
+# timecourse_plot_ppm.ipynb
+Jupyterlab notebook for plotting steady state and T>C labeled miRNAs. Figures 3b,c,d,e,f; Extended Data Figure 3j
+
+
+Jupyterlab notebooks may need additional files also deposited here:
   - 126_final_miRNA_analyzed_inputReadsNorm.txt
     list of final 126 miRNA detected in all three samples (shControl, shINTS6, shINTS11) used to subsample results files
   - 32_miRNA_couples_toAnalyze.txt
