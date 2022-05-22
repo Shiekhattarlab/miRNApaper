@@ -347,4 +347,4 @@ dependencies:
     - snowballstemmer==1.2.1
     - sphinxcontrib-websupport==1.1.0
     - typing==3.6.6
-prefix: /media/labdisk/data/users/nina/bin/miniconda2/envs/rnaseq
+prefix: /your/path/to/bin/miniconda2/envs/rnaseq
