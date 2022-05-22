@@ -4,6 +4,8 @@
 Jupyterlab notebook for plotting T>C labeled miRNAs. Figure 3i
 # timecourse_plot_ppm.ipynb
 Jupyterlab notebook for plotting steady state and T>C labeled miRNAs. Figures 3b,c,d,e,f; Extended Data Figure 3j
+# timecourse_plot_biogenesis_rates.ipynb
+Jupyterlab notebook for calculating and plotting biogenesis and accumulation rates. Figures 3g,h
 
 
 Jupyterlab notebooks may need additional files also deposited here:
