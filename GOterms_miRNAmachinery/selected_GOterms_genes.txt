@@ -1,0 +1,13 @@
+# miRNA related genes:
+
+https://www.ebi.ac.uk/QuickGO/
+
+# select following GOs:
+GO:0070883, GO:0070878, GO:0031054, GO:0035280, GO:1990428, GO:0035196, GO:2000634, GO:0031053, GO:0035281, GO:2000631
+
+# 42 unique genes:
+TARBP2, SRF, EZH2, B7Z1P5,   TGFBR2,   PRKRA,    IL6,      DDX5,     HNRNPA2B1,STAT3,   
+ADAR,     RAN,      YBX1,     SMAD3,    PUM1,     SMAD2,    SMAD1,    TRIM71,   PUS10,    Q53GY5,  SPOUT1,   TUT4,     TUT7,     LIN28B,   BCDIN3D,  METTL3,   ZC3H7A,   SNIP1,    PUM2,     DGCR8,   
+SRRT,     DHX36,    AGO3,     MRPL44,   LIN28A,   XPO5,     AGO4,     DROSHA,   ZC3H7B,   AGO2,  AGO1,     DICER1,
+
+# saved as "miRNAmachinery_unique_names.tsv"
